@@ -4,7 +4,7 @@
    and I know how to make restapi using python flask and pymongo using postman
 - 💞️ I’m looking to join With one of the gsoc event to learn from mentors and apply things efficiently according to my above mentioned skills
 - 📫 How to reach me : any one can reach me on email: "chaurasiyadeepak844@gmail.com"
-- my Dream company are Amazon, Google, Facebook because I am utilizing their resources extensively and effectively and having some kind of love with it that's why this is my dream company And I know I will be collaborating with this companies in future
+- my Dream company are Amazon, Google, Facebook because I am utilizing their resources extensively and effectively and having some kind of love with this company that's why this is my dream company And I know I will be collaborating with this companies in future
 
 <!---
 Deepak-Chaurasiya/Deepak-Chaurasiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
